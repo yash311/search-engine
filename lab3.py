@@ -6,8 +6,8 @@ import math
 import heapq
 import string
 
-import numpy as np
 import math
+import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import preprocess
 
